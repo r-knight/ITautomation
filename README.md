@@ -1,2 +1,4 @@
 # ITautomation
 repo for IT automation coursework 
+
+I am editing the README file. Adding some more details about the project description.
